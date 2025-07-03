@@ -1,16 +1,27 @@
-## Hi there 👋
+# ⚠️ Account Notice
 
-<!--
-**Hari-Sri-T/Hari-Sri-T** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hey there! 👋
 
-Here are some ideas to get you started:
+This GitHub account is **no longer maintained**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Due to an unfortunate loss of access to two-factor authentication, I’ve had to start fresh with a new GitHub profile.
+
+👉 **Please visit my new GitHub account here: [@Hari-Sri-Shanmukha-Sai](https://github.com/Hari-Sri-Shanmukha-Sai)**  
+That’s where you’ll find all my latest projects, updates, and contributions.
+
+---
+
+### 📦 What's Happening to This Account?
+
+- I’m unable to manage or update this account anymore due to lost 2FA access.
+- All new work has moved to the new account linked above.
+- Existing public projects may remain here as archived references, but they won’t be updated.
+
+---
+
+### 🙏 Thank You!
+
+If you came here from a resume, previous collaboration, or old repo link — thanks for checking in!  
+I’m still very much active and building — just at a new GitHub home now. Feel free to connect with me there.
+
+
